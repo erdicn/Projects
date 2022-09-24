@@ -1,0 +1,2 @@
+D:\Projects\Graphics\DataVisualiser\x64\Release\DataVisualiser.exe
+D:\Projects\Graphics\2D_DataVisualiser\x64\Release\DataVisualiser.exe

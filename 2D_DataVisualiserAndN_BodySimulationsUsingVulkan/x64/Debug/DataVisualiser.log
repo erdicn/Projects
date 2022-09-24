@@ -1,0 +1,6 @@
+﻿  main.cpp
+  lve_device.cpp
+  lve_device.hpp
+  Generating Code...
+x64\Debug\lve_device.obj : warning LNK4042: object specified more than once; extras ignored
+  DataVisualiser.vcxproj -> D:\Projects\Graphics\2D_DataVisualiser\x64\Debug\DataVisualiser.exe
